@@ -43,7 +43,8 @@ bandit1@bandit:~$ ls
 
 Just one file with the name `-`.
 
-![[Pasted image 20260919105719.png]]
+#![[Pasted image 20260919105719.png]]
+[photo](Pasted\ image\ 20260919105719\.png)
 
 Trying `cat -` didn't work — it just hung waiting for input. After a quick search I found the relative path trick:
 
