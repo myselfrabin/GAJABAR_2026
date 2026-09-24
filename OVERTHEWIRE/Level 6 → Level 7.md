@@ -34,3 +34,5 @@ Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
 
 - This is how I solved this lab.
 - It will be disrespect for me If at this point If I don't fully read the linux user and group permission system and file system let's fully study that and only move to next level.
+
+
