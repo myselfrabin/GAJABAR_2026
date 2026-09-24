@@ -17,7 +17,7 @@
 cat data.txt | grep millionth
 ```
 - And it shows me the passsword.
-![](Pasted%20image%2020260924095533.png)
+![](./Attachments/Pasted%20image%2020260924095533.png)
 - The password is: 
 ```text
 VR1ljMayciFxbnUokuQmJFw6QC9VKtub
