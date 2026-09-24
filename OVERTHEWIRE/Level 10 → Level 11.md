@@ -18,3 +18,8 @@ cat data.txt | base64 -d
 - Using this command I can see the password basically what this does is: at first it list the content from the `data.txt` file and then pipe it and decoded that data using the command: `base64 -d`
 
 ![](Attachments/Pasted%20image%2020260924172651.png)
+
+- The password for the next level i.e (11) is: 
+```text
+pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+```
