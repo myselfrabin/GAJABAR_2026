@@ -16,7 +16,7 @@
 
 - And now I copied this text and went into the `cyberchef` to decrypt this text.
 - Using `ROT13` algorithm to decrypt this text I got the password;
-![](Pasted%20image%2020260924180615.png)
+![](Attachments/Pasted%20image%2020260924180615.png)
 
 - And the password for the next level i.e (12) is: 
 ```text
