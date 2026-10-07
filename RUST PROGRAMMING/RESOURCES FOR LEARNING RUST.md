@@ -1,0 +1,6 @@
+For anyone wanting to explore/learn rust itself, I find the best resource is to go through the following in that order:
+- The Rust Programming Language https://doc.rust-lang.org/book/ (also affectionately called The Book)
+- Crust of Rust by Jon Gjenset https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa is absolutely amazing. All the internal details of so many rust concepts that can otherwise be hard to digest.
+- Learning Rust With Entirely Too Many Linked Lists https://rust-unofficial.github.io/too-many-lists/ Learning a bunch of data structures in rust (most students are familiar with data structure already from uni so this is a known concept, unknown language kinda learning)
+- There are a bunch of other channels that can be too technical `Logan Smith` or too superficial `Lets get Rusty` that can be good to keep up with the language but don't necessarily have that beginner-education quality to them.
+- @noboilterplate on yt : [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
