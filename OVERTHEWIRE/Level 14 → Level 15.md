@@ -34,7 +34,7 @@ nc localhost 30000
 ```
 
 
-![](Pasted%20image%2020261007112348.png)
+![](Attachments/Pasted%20image%2020261007112348.png)
 
 - And like this we get password for next level.
 - The password is:
