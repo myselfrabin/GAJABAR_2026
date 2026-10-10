@@ -34,16 +34,4 @@
 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
 ```
 
-![](Attachments/Pasted%20image%2020261010152228.png)
 
-- As we can see it's being done now let's see how can we execute the file `suconnect`
-![](Attachments/Pasted%20image%2020261010152328.png)
-
-- The process to do is: `./suconnect <PORT_NUMBER`
-- Ok using that I got a next password.
-![](Attachments/Pasted%20image%2020261010152448.png)
-
-- The password for the next level is:
-```text
-bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
-```

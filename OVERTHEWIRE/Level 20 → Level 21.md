@@ -16,7 +16,18 @@
 echo 'Previous_level_pass' | nc -l -p <ANY_RANDOM_PORT_NUM> &
 ```
 - The `&` is being used for: command needs to be run, but you don’t need to interact with it for a while and want to keep using the same terminal with other commands while the command is executing.
-- 
 
+![](Attachments/Pasted%20image%2020261010152228.png)
 
+- As we can see it's being done now let's see how can we execute the file `suconnect`
+![](Attachments/Pasted%20image%2020261010152328.png)
 
+- The process to do is: `./suconnect <PORT_NUMBER`
+- Ok using that I got a next password.
+
+![](Attachments/Pasted%20image%2020261010152448.png)
+
+- The password for the next level is:
+```text
+bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
+```
