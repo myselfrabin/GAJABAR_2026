@@ -2,7 +2,9 @@
 platform: CryptoHack
 category: General / Python
 status: solved
-tags: [python, crypto-basics]
+tags:
+  - python
+  - crypto-basics
 ---
 
 # Great Snakes
