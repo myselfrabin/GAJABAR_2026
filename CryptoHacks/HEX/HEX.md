@@ -42,3 +42,8 @@ Included below is a flag encoded as a hex string. Decode this back into bytes to
 
 
 ![](Attachments/Pasted%20image%2020261015100939.png)
+
+
+Resources for this lab: 
+1. [ASCII TABLE](https://www.rapidtables.com/code/text/ascii-table.html)
+2. [HEXADECIMAL](https://en.wikipedia.org/wiki/Hexadecimal)
