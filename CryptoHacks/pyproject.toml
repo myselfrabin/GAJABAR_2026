@@ -7,7 +7,9 @@ authors = [
     { name = "myselfrabin", email = "shivagaire839@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pycryptodome>=4.0.0",
+]
 
 [project.scripts]
 cryptohacks = "cryptohacks:main"
