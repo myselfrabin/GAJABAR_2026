@@ -26,3 +26,9 @@ crypto/Base+64+Encoding+is+Web+Safe/
 
 
 ![](Attachments/Pasted%20image%2020261016084617.png)
+
+
+## NOTE FROM THIS LAB: 
+- `bytes.fromhex(hexString)` converts hexadecimal text into raw bytes.
+    
+- `base64.b64encode(byte_data)` encodes those bytes into Base64.
