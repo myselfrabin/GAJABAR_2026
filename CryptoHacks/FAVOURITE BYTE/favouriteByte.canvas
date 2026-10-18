@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"df2fc3c343343e8f","type":"text","text":"1. Data is hidden as a single byte i.e secret","x":-720,"y":-420,"width":305,"height":70},
 		{"id":"59b0cc27340265f0","type":"text","text":"2 .A single byte key has 256 possible value from 0 to 255","x":-60,"y":-496,"width":250,"height":76},
-		{"id":"bd53551ee0142f91","x":-700,"y":-242,"width":400,"height":164,"type":"file","file":"GAJABAR/CryptoHacks/FAVOURITE BYTE/Attachments/Pasted image 20261017192558.png"},
+		{"id":"bd53551ee0142f91","type":"file","file":"GAJABAR/CryptoHacks/FAVOURITE BYTE/Attachments/Pasted image 20261017192558.png","x":-700,"y":-242,"width":400,"height":164},
 		{"id":"21c971eee8b5e19a","type":"file","file":"GAJABAR/CryptoHacks/FAVOURITE BYTE/Attachments/Attachments Pasted image 20261017191326.png","x":-415,"y":80,"width":399,"height":216},
 		{"id":"568f892bd8b0adc4","type":"text","text":"3 .so we may think for the bruteforce that value from 0 to 255","x":65,"y":-242,"width":250,"height":102}
 	],
